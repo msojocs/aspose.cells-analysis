@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <section _="eaa1be38-7a55-44af-ad93-5b7ee2327edd">
+    <section _="Bookmark" IsEnabled="True" Name="Products">
+      <section _="BML" __BMT="DotNetBody" AssemblyFullName="Aspose.Cells, Version=23.9.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56" ModuleName="D:\GitHub\aspose.cells-analysis\demo\Excel\bin\Debug\net6.0\Aspose.Cells.dll" Offset="228" Token="100714274" TokenString="System.Byte[] ©000E©001A©0017©0002::©0003(System.IO.Stream)" />
+    </section>
+    <section _="Bookmark" IsEnabled="True" Name="EditionType">
+      <section _="BML" __BMT="DotNetBody" AssemblyFullName="Aspose.Cells, Version=23.9.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56" ModuleName="D:\GitHub\aspose.cells-analysis\demo\Excel\bin\Debug\net6.0\Aspose.Cells.dll" Offset="246" Token="100714274" TokenString="System.Byte[] ©000E©001A©0017©0002::©0003(System.IO.Stream)" />
+    </section>
+    <section _="Bookmark" IsEnabled="True" Name="SerialNumber">
+      <section _="BML" __BMT="DotNetBody" AssemblyFullName="Aspose.Cells, Version=23.9.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56" ModuleName="D:\GitHub\aspose.cells-analysis\demo\Excel\bin\Debug\net6.0\Aspose.Cells.dll" Offset="267" Token="100714274" TokenString="System.Byte[] ©000E©001A©0017©0002::©0003(System.IO.Stream)" />
+    </section>
+    <section _="Bookmark" IsEnabled="True" Name="SubscriptionExpiry">
+      <section _="BML" __BMT="DotNetBody" AssemblyFullName="Aspose.Cells, Version=23.9.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56" ModuleName="D:\GitHub\aspose.cells-analysis\demo\Excel\bin\Debug\net6.0\Aspose.Cells.dll" Offset="288" Token="100714274" TokenString="System.Byte[] ©000E©001A©0017©0002::©0003(System.IO.Stream)" />
+    </section>
+    <section _="Bookmark" IsEnabled="True" Name="LicenseExpiry">
+      <section _="BML" __BMT="DotNetBody" AssemblyFullName="Aspose.Cells, Version=23.9.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56" ModuleName="D:\GitHub\aspose.cells-analysis\demo\Excel\bin\Debug\net6.0\Aspose.Cells.dll" Offset="309" Token="100714274" TokenString="System.Byte[] ©000E©001A©0017©0002::©0003(System.IO.Stream)" />
+    </section>
+    <section _="Bookmark" IsEnabled="True" Name="Professional">
+      <section _="BML" __BMT="DotNetBody" AssemblyFullName="Aspose.Cells, Version=23.9.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56" ModuleName="D:\GitHub\aspose.cells-analysis\demo\Excel\bin\Debug\net6.0\Aspose.Cells.dll" Offset="466" Token="100714274" TokenString="System.Byte[] ©000E©001A©0017©0002::©0003(System.IO.Stream)" />
+    </section>
+    <section _="Bookmark" IsEnabled="True" Name="Enterprise">
+      <section _="BML" __BMT="DotNetBody" AssemblyFullName="Aspose.Cells, Version=23.9.0.0, Culture=neutral, PublicKeyToken=716fcc553a201e56" ModuleName="D:\GitHub\aspose.cells-analysis\demo\Excel\bin\Debug\net6.0\Aspose.Cells.dll" Offset="494" Token="100714274" TokenString="System.Byte[] ©000E©001A©0017©0002::©0003(System.IO.Stream)" />
+    </section>
+  </section>
+</settings>

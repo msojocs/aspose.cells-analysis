@@ -1,0 +1,12 @@
+<xml>
+  <Data>
+    <SubscriptionExpiry>20990101</SubscriptionExpiry>
+    <LicenseExpiry>20990101</LicenseExpiry>
+    <Products>
+      <Product>Aspose.Excel</Product>
+    </Products>
+    <EditionType>Enterprise</EditionType>
+    <SerialNumber>num</SerialNumber>
+  </Data>
+  <Signature>MTIzNDU2</Signature>
+</xml>
